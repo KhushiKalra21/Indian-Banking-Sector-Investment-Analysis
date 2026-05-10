@@ -97,7 +97,7 @@ The study proposes portfolio strategies for different investor categories:
 
 ### Repository Structure
 
-```bash
+
 │── WMAI_Project.ipynb         # Jupyter notebook containing analysis
 │── Group-4_WMAI_Report.pdf   # Detailed project report
 │── README.md                 # Project documentation

@@ -1,5 +1,5 @@
-# Indian-Banking-Sector-Investment-Analysis
-# Indian Banking Sector Analysis | Wealth Management & Alternate Investments (WMAI)
+# Indian Banking Sector Analysis
+#  Wealth Management & Alternate Investments (WMAI)
 
 ## Overview
 This project presents an end-to-end analysis of the **Indian Banking Sector** by combining both **Fundamental Analysis** and **Technical Analysis** to evaluate the financial strength, market performance, and investment attractiveness of leading Indian banks.
